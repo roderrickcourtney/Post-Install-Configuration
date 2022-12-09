@@ -28,9 +28,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <img src="https://imgur.com/FmvoAxO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/z2AQ9EF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/eBHmSbN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After logging into the OsTicket browser, make sure you are on the "admin panel" and not the "agent panel". Click "agents" then "roles". Next click "add new role" to create a "super admin" whom can do every task since he/she will have all permissions and access.
+After logging into the OsTicket browser, make sure you are on the "admin panel" and not the "agent panel". Click "agents" then "roles". Next click "add new role" to create a "super admin" whom can do every task since he/she will have all permissions and access. This process wiil need to be repeated to perform the next two steps which are configuring the departments & teams(create "System Administrators department" & "level II Support team"). Please reference screenshots above.
 </p>
 <br />
 
