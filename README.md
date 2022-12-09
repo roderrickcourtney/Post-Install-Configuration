@@ -45,10 +45,10 @@ Go to settings, Users, settings again and make sure the box titled "Require regi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/cBXIjCJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-kk.
+Create two test agents ("jane Doe" and "John Doe"). Assign Jane to "System Administrators" department with "Super administrator" permission level, both of these options are located under the access tab on the same agent screen. Please reference picture.
 </p>
 <br />
 
