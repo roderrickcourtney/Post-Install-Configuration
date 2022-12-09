@@ -37,10 +37,10 @@ After logging into the OsTicket browser, make sure you are on the "admin panel" 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/qbqLOEx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-kk.
+Go to settings, Users, settings again and make sure the box titled "Require registration and login to create tickets" is unchecked. This is will allow everyone access to make tickets without restrictions if they need to. 
 </p>
 <br />
 
